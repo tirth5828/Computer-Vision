@@ -34,11 +34,11 @@ find_license_plate('/content/your_image.jpg')
 
 ## Input Image
 
-![Input Image](/images/input_image.jpg)
+![Input Image](/input.jpg)
 
 ## Output Image
 
-![Output Image](/images/output_image.jpg)
+![Output Image](/output.png)
 
 **Note:** Make sure to replace `'your_image.jpg'` with the actual name of your image file.
 
